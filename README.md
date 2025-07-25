@@ -14,7 +14,7 @@ The dataset consists of pump failure records, categorized by failure types, caus
 - Severity & Likelihood : Quantifies the impact and probability of each failure.
 - Risk Matrix : Categorizes failures into different risk levels (High, Moderate, Fair).
 - Responsibility & Recommended Actions : Assigns accountability and suggests maintenance actions.
-- 
+  
 Process
 
 1. Data Preparation & Transformation
